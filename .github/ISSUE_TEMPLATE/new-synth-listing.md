@@ -2,7 +2,7 @@
 name: New Synth Listing
 about: A checklist of requirements for listing a new Synth
 title: "[NEW SYNTH]"
-labels: ''
+labels: 'synths'
 assignees: ''
 
 ---
@@ -14,4 +14,10 @@ New Synth Listing Checklist:
 - [ ] Relevant ecosystem members informed 
 - [ ] Incentives established
 - [ ] Announcement prepared
-- [ ] Launched on Synthetix and Kwenta
+- [ ] Synthetix.exchange / Kwenta support
+- [ ] Graph support for Cl Proxy price updates
+- [ ] Feeds running on CL + aggregator on mainnet
+- [ ] Market closures for NYSE and bot
+- [ ] Aftermarket trading pool (Balancer pool) 
+- [ ] Dealing with potential stock splits in future
+- [ ] Decision on dividends
