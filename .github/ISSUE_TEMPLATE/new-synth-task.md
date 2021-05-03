@@ -1,7 +1,7 @@
 ---
-name: New Synth Listing
+name: New Synth Task
 about: A checklist of requirements for listing a new Synth
-title: "[NEW SYNTH]"
+title: "[Story]: A user should be able to exchange s[synthName]"
 labels: synths
 assignees: ''
 

@@ -1,7 +1,8 @@
 ---
-name: New Synth Listing
-about: A checklist of requirements for listing a new Synth
-title: "[NEW SYNTH]"
+name: Adding a new synth
+about: A template listing the requirements that need to be checked off in order to
+  release a new synth
+title: "[Synth]: s-<SynthName>"
 labels: synths
 assignees: ''
 
